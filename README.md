@@ -24,7 +24,7 @@ The system retrieves relevant information from a document and uses a language mo
 project/
 │
 ├── app.py              # Streamlit user interface
-├── rag_system.py       # RAG pipeline (retrieval + LLM)
+├── rag.py              # RAG pipeline (retrieval + LLM)
 ├── data.txt            # Knowledge base about Ahmed Farag
 ├── requirements.txt    # Python dependencies
 ├── .env                # API key (NOT uploaded to GitHub)
