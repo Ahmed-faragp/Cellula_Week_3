@@ -33,40 +33,6 @@ project/
 
 ---
 
-# Installation
-
-Clone the repository:
-
-```
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-```
-
-Create a virtual environment (recommended):
-
-```
-python -m venv venv
-```
-
-Activate it:
-
-Windows
-
-```
-venv\Scripts\activate
-```
-
-Linux / Mac
-
-```
-source venv/bin/activate
-```
-
-Install dependencies:
-
-```
-pip install -r requirements.txt
-```
 
 ---
 
