@@ -1,0 +1,236 @@
+PERSONAL PROFILE: Ahmed Farag
+
+========================
+BASIC INFORMATION
+=================
+
+Name: Ahmed Farag
+Location: Egypt
+Timezone: GMT+2
+Education Status: Undergraduate Student
+Field of Study: Computer and Systems Engineering
+
+Height: 188 cm
+Weight: 88 kg
+Skin Tone: Light Brown
+
+Preferred Programming Language: C++
+Secondary Programming Language: Python
+Preferred IDE: Visual Studio Code (VS Code)
+
+========================
+PERSONAL PREFERENCES
+====================
+
+Ahmed Farag's favorite food is Koshary.
+
+Koshary is a traditional Egyptian dish made from rice, pasta, lentils, chickpeas, tomato sauce, fried onions, and garlic vinegar sauce.
+
+Ahmed Farag's favorite sport is table tennis.
+
+Ahmed Farag's favorite color is dark blue.
+
+========================
+ACADEMIC BACKGROUND
+===================
+
+Ahmed Farag is currently studying Computer and Systems Engineering.
+
+
+Ahmed Farag's academic interests include:
+
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Circuit Design
+Embedded Systems
+Semiconductor Studies
+AI Deployment (Cloud AI and Edge AI)
+
+Ahmed Farag is currently taking a semiconductor course.
+
+========================
+TECHNICAL SKILLS
+================
+
+Ahmed Farag has beginner to early-intermediate programming experience.
+
+He has basic knowledge of Python.
+
+He prefers C++ as his main programming language.
+
+He uses Python mainly for Artificial Intelligence and Machine Learning tasks.
+
+Ahmed Farag practices programming by solving LeetCode problems.
+
+Tools and technologies used by Ahmed Farag include:
+
+Python
+C++
+TensorFlow (planned focus)
+PyTorch (planned focus)
+OpenCV (planned focus)
+MATLAB
+Simulink
+FAISS vector database
+Python virtual environments (venv)
+Git workflows
+
+========================
+CAREER DIRECTION
+================
+
+Ahmed Farag wants to specialize in software-focused Artificial Intelligence development.
+
+His long-term career goals include:
+
+Developing AI systems
+Building intelligent automation tools
+Creating impactful AI solutions
+Working remotely
+Earning income in USD
+Achieving financial stability while living in Egypt
+
+========================
+SHORT TERM GOALS
+================
+
+Ahmed Farag wants to:
+
+Build a strong foundation in machine learning
+Finish DataCamp courses before July
+Complete Machine Learning internship tasks from CodeAlpha
+
+CodeAlpha internship tasks include:
+
+Building a credit scoring machine learning model
+Building an emotion recognition from speech model (optional)
+
+Ahmed Farag also plans to build an AI system that detects explicit content on Facebook and blurs it.
+
+========================
+CURRENT PROJECTS
+================
+
+Project: AI Explicit Content Blur System
+
+Ahmed Farag is building an AI system that detects explicit Facebook content and automatically blurs it.
+
+Expected technologies:
+
+Computer Vision
+Deep Learning
+OpenCV
+Python backend
+Browser integration
+
+---
+
+Project: Solar Cell Light Tracking Simulation
+
+Ahmed Farag is building a MATLAB and Simulink simulation of a solar cell that follows sunlight.
+
+System requirements:
+
+Light sensor
+Two motors
+Vertical light tracking
+
+---
+
+Project: Vector Databases and RAG Systems
+
+Ahmed Farag is currently learning about:
+
+Vector databases
+FAISS
+Document loaders
+Retrieval-Augmented Generation systems
+
+========================
+WORK PREFERENCES
+================
+
+Ahmed Farag prefers:
+
+Remote work
+Software engineering roles
+Artificial Intelligence related jobs
+Stable long-term careers
+Income in foreign currency
+
+========================
+HEALTH AND FITNESS
+==================
+
+Ahmed Farag has a family history of diabetes and thyroid disease.
+
+He trains at the gym regularly.
+
+Fitness goals:
+
+Gain muscle mass
+Focus on back, arms, and shoulders
+
+Training routine:
+
+4 days per week
+60 minutes per session
+
+========================
+PRODUCTIVITY PATTERNS
+=====================
+
+Ahmed Farag sometimes struggles with productivity cycles.
+
+Typical challenges include:
+
+Delaying tasks
+Sleeping instead of working during low motivation periods
+
+He wants structured systems for time management.
+
+He balances:
+
+University studies
+AI learning
+Gaming
+Anime
+Movies
+
+========================
+COMMUNICATION STYLE
+===================
+
+Ahmed Farag communicates using both Arabic and English.
+
+His communication style is:
+
+Direct
+Analytical
+Clear
+Structured
+
+========================
+CAREER TARGETS
+==============
+
+Ahmed Farag hopes to work at:
+
+CyShield
+Siemens
+Valeo
+
+CyShield focus: Cybersecurity and AI security systems.
+Siemens focus: Industrial automation and AI systems.
+Valeo focus: Automotive software and intelligent mobility.
+
+========================
+PHYSICAL PROFILE
+================
+
+Ahmed Farag's height is 188 cm.
+
+Ahmed Farag's weight is approximately 88 kg.
+
+Ahmed Farag has light brown skin tone.
